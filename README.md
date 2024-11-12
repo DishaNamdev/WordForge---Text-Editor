@@ -2,7 +2,7 @@
 WordForge is a powerful and customizable Rich Text Editor built entirely from scratch using JavaScript, HTML, and CSS. Designed with simplicity and functionality in mind, WordForge provides users with a wide range of formatting options to craft beautifully styled text effortlessly.
 
 **Features**
-InkCraft’s sleek toolbar includes the following features to enhance your writing:
+WordForge’s sleek toolbar includes the following features to enhance your writing:
 
 **Text Styling:**
 Bold, Italic, Underline, and Strikethrough for essential text emphasis
